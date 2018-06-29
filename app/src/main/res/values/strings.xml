@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearningRxJavaAssociativeSearch</string>
+    <string name="hint">输入搜索字段</string>
+</resources>
